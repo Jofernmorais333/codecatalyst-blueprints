@@ -51,10 +51,10 @@
   },
   "dependencies": {
     "@amazon-codecatalyst/blueprint-component.environments": "^0.3.88",
-    "@amazon-codecatalyst/blueprint-component.issues": "^0.3.88",
+    "@amazon-codecatalyst/blueprint-component.issues": "^0.0.0",
     "@amazon-codecatalyst/blueprint-component.source-repositories": "^0.3.88",
-    "@amazon-codecatalyst/blueprint-component.workflows": "^0.3.88",
-    "@amazon-codecatalyst/blueprints.blueprint": "^0.3.88",
+    "@amazon-codecatalyst/blueprint-component.workflows": "^0.0.0",
+    "@amazon-codecatalyst/blueprints.blueprint": "^0.0.0",
     "ipaddr.js": "^2.1.0",
     "projen": "0.71.112",
     "semver": "^7.5.3"
