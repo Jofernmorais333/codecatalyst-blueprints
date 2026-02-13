@@ -52,10 +52,10 @@
     "typescript": "^4.x"
   },
   "dependencies": {
-    "@amazon-codecatalyst/blueprint-component.environments": "^0.3.82",
+    "@amazon-codecatalyst/blueprint-component.environments": "^0.0.0",
     "@amazon-codecatalyst/blueprint-component.source-repositories": "^0.3.82",
-    "@amazon-codecatalyst/blueprint-component.workflows": "^0.3.82",
-    "@amazon-codecatalyst/blueprints.blueprint": "^0.3.82",
+    "@amazon-codecatalyst/blueprint-component.workflows": "^0.0.0",
+    "@amazon-codecatalyst/blueprints.blueprint": "^0.0.0",
     "mustache": "^4.2",
     "projen": "0.71.112",
     "yaml": "*"
